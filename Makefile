@@ -1,4 +1,4 @@
-CFLAGS=-Wall
+CFLAGS=-Wall -g
 
 all: ex2 ex3 ex5 ex6 ex7 ex8 ex9		
 
